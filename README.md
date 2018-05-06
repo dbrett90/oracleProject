@@ -41,6 +41,6 @@ Having never deployed a cloud application, there was definitely a learning curve
 
 ## Applications
 
-This brief application was intended to demonstrate my technical skillset and to showcase my background in security. It also provides insight into the how our current definition of "privacy" and "anonymity" is flawed. Using information that is not uniquely identifying information, I am able to de-anonymize a given reviewer. 
+This brief application was intended to demonstrate my technical skillset and to showcase my background in security. It also provides insight into the how our current definition of "privacy" and "anonymity" is flawed. Using information that is not uniquely identifying information, I am able to de-anonymize a given reviewer. A brief example of this process is then written out to a text file and then written to an oracle cloud container. 
 
 
