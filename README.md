@@ -6,7 +6,10 @@
 
 ## Project Scope and Goal
 
-Using "anonymized" [Yelp data](https://www.kaggle.com/yelp-dataset/yelp-dataset/data) from Kaggle, I create an application that allows a user to input some auxiliary information to see if they can find a reviewer in the database. Please note that **due to github's restraint on file sizes, the file containing the actual yelp reviews could not be uploaded.** However, I have uploaded a smaller version of the file so that this code can be executed. However, please note that the following sections are based on the original file size. This project was derived from work I had done for my senior thesis on Linkage Attacks and Modern Privacy Techniques and adapted to fit an oracle cloud container and to utilize some of Oracle's cloud analytics tools. 
+Using "anonymized" [Yelp data](https://www.kaggle.com/yelp-dataset/yelp-dataset/data) from Kaggle, I create an application that allows a user to input some auxiliary information to see if they can find a reviewer in the database. Please note that **due to github's restraint on file sizes, the file containing the actual yelp reviews could not be uploaded, please reference URL.**  This project was derived from work I had done for my senior thesis on Linkage Attacks and Modern Privacy Techniques and adapted to fit an oracle cloud container. I had initially hoped to utilize Oracle's analytics tools, but was unsuccessful. 
+
+## Context
+With the recent Cambridge Analytica scandal, users want to know how their information is being stored, released, and who has access to it. With my background in cybersecurity, I thought it would be an interesting exercise to see if I could de-anonymize a restaurant reviewer based on a small amount of auxiliary information. If successful, I would then write out the rest of that reviewers restaurant reviews to numbered text files. This exercise hopes to prove that the way potentially sensitive data is released online is flawed as potentially compromising information (i.e. a harsh review, revierer's location/habits) can be revealed.  
 
 ## Metadata and Associated Information 
 Outlined below is some relevant information regarding the dataset(s). The information below was crucial in constructing quasi-identifier for the search algorithms.
@@ -45,6 +48,6 @@ Having never deployed a cloud application, there was definitely a learning curve
 
 ## Applications
 
-This brief application was intended to demonstrate my technical skillset and to showcase my background in security. It also provides insight into the how our current definition of "privacy" and "anonymity" is flawed. Using information that is not uniquely identifying information, I am able to de-anonymize a given reviewer. A brief example of this process is then written out to a text file and then written to an oracle cloud container. 
+This brief application was intended to demonstrate my technical skillset and to showcase my background in security. It also provides insight into the how our current definition of "privacy" and "anonymity" is flawed. Using information that is not uniquely identifying information, I am able to de-anonymize a given reviewer. This code is meant to showcase privacy flaws in lieu service.
 
 
