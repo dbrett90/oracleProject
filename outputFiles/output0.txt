@@ -1,0 +1,81 @@
+Randomly selecting auxiliary information....
+Information Selected, See Below:
+('"5 & Diner"', '1', '2012-09-29')
+THIS IS THE USER ID DETECTED: Kn60PISsT-kNxgJQHHu9eQ
+THIS IS THE ORIGINAL ID: Kn60PISsT-kNxgJQHHu9eQ
+THE TWO ARE A MATCH! BECAUSE OF THIS WE CAN ALSO ACCESS THE REST OF THE REVIEWERS REVIEWS
+
+OTHER REVIEWS:
+
+Business Name: "5 & Diner"
+Stars: 1
+Date of Review: 2012-09-29
+
+Business Name: "Maizie's Cafe & Bistro"
+Stars: 5
+Date of Review: 2009-05-24
+
+Business Name: "FEZ"
+Stars: 3
+Date of Review: 2010-01-26
+
+Business Name: "Hanny's"
+Stars: 3
+Date of Review: 2009-08-27
+
+Business Name: "Wild Thaiger"
+Stars: 2
+Date of Review: 2010-07-12
+
+Business Name: "Los Taquitos"
+Stars: 5
+Date of Review: 2013-08-08
+
+Business Name: "Revo Burrito"
+Stars: 4
+Date of Review: 2010-02-07
+
+Business Name: "Snooze An AM Eatery"
+Stars: 5
+Date of Review: 2014-03-07
+
+Business Name: "Lux Central"
+Stars: 4
+Date of Review: 2009-05-24
+
+Business Name: "Pei Wei"
+Stars: 2
+Date of Review: 2012-10-23
+
+Business Name: "La Barquita Restaurant"
+Stars: 5
+Date of Review: 2010-06-13
+
+Business Name: "Ahipoki Bowl"
+Stars: 5
+Date of Review: 2016-07-28
+
+Business Name: "Local Breeze"
+Stars: 4
+Date of Review: 2010-06-06
+
+Business Name: "New Bamboo"
+Stars: 3
+Date of Review: 2017-01-03
+
+Business Name: "Federal Pizza"
+Stars: 3
+Date of Review: 2013-01-04
+
+Business Name: "America's Taco Shop"
+Stars: 5
+Date of Review: 2010-02-02
+
+Business Name: "Country Boys Restaurant #110"
+Stars: 2
+Date of Review: 2012-02-06
+
+Business Name: "China Chili"
+Stars: 5
+Date of Review: 2009-03-16
+

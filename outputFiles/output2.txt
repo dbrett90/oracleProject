@@ -1,0 +1,20 @@
+Randomly selecting auxiliary information....
+Information Selected, See Below:
+('"Canaletto"', '4', '2011-10-24')
+THIS IS THE USER ID DETECTED: KDn20C0kqm14OP8CX7eGog
+THIS IS THE ORIGINAL ID: KDn20C0kqm14OP8CX7eGog
+THE TWO ARE A MATCH! BECAUSE OF THIS WE CAN ALSO ACCESS THE REST OF THE REVIEWERS REVIEWS
+
+OTHER REVIEWS:
+
+Business Name: "Canaletto"
+Stars: 4
+Date of Review: 2011-10-24
+
+Business Name: "Firefly"
+Stars: 3
+Date of Review: 2012-07-21
+
+Business Name: "Mon Ami Gabi"
+Stars: 2
+Date of Review: 2012-06-08
