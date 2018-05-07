@@ -35,9 +35,13 @@ The table below outlines the difference in reviews after looking at all reviews 
 |**Entire Dataset**| 5200000|174000| 2500000|
 |**After Filtering** |1804242|115242|902121|
 
+## Scoring Algoritm
+
+This program utilizes a scoring algorithm derived from a research paper about the [Netflix Prize](https://www.cs.utexas.edu/~shmat/shmat_oak08netflix.pdf). In essence the scoring mechanism is predicated on two things, a similarity function and a weight vector. The weight vector was necessary in the creation of my thesis as we were considering mutliple reviews at the same time, but for this simple application it was relatively irrelevant. Therefore we only used the sim function, which was based on compatability between the auxiliary information and selected record. The attributes compared were restaurant name (must be direct match), rating (within 2 stars), and date (within a week). Using just these three fields as a quasi-identifier, I was able to successfully de-anonymize a given reviewer. 
+
 ## Challenges
 
-Having never deployed a cloud application, there was definitely a learning curve when it came to integrating some of oracle's cloud projects with this small application. However, the nice thing about this dataset was that its inherent sparseness allowed for easy scoring using a scoring algorithm derived from a research paper about the [Netflix Prize](https://www.cs.utexas.edu/~shmat/shmat_oak08netflix.pdf). This is what allowed for proper scoring of each search query and to determine if a match was present in the database. 
+Having never deployed a cloud application, there was definitely a learning curve when it came to integrating some of oracle's cloud projects with this small application. I ultimately settled on using one of Oracle's cloud containers to deploy the results of one of the experiments after tinkering with some of the data visualization tools and failing to get a working product. 
 
 ## Applications
 
